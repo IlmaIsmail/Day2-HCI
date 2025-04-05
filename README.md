@@ -4,11 +4,11 @@
 
 # The calculator consists of:
 
-  Display area showing input and calculation results
-  Numeric buttons (0-9)
-  Operation buttons (+, -, ×, ÷)
-  Function buttons (AC, +/-, %, =)
-  Decimal point button (.)
+      Display area showing input and calculation results
+      Numeric buttons (0-9)
+      Operation buttons (+, -, ×, ÷)
+      Function buttons (AC, +/-, %, =)
+      Decimal point button (.)
 
 # Testing
   Test all numeric inputs to ensure proper display updating
