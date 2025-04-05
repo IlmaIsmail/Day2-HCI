@@ -1,6 +1,6 @@
 # Day2-HCI
 
-  This project shows the basic construction of a calculator using Axure
+  This project shows the basic construction of a calculator using Axure. It shows the outputs of numerical buttons only
 
 # The calculator consists of:
 
